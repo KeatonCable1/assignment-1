@@ -1,14 +1,14 @@
 body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin:0px;
-    background-color:rgb(57, 3, 219)
+    background-color:rgb(72, 11, 255)
 
 
 
 }
 
 .section-1 {
-    background-color: rgb(57, 3, 219);
+    background-color: rgb(72, 11, 255);
     color: white;
     display:flex;
     flex-direction:row;
@@ -32,7 +32,7 @@ input[type='button'] {
 
 .section-2 {
 
-    background-color: rgb(57, 3, 219);
+    background-color: rgb(72, 11, 255);
     color: white;
     display: flex;
     flex-direction: row;
